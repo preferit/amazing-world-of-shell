@@ -1,0 +1,1 @@
+export { StyledContent } from './StyledContent'

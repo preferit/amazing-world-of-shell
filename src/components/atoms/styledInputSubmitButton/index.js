@@ -1,0 +1,1 @@
+export { StyledInputSubmitButton } from './StyledInputSubmitButton'

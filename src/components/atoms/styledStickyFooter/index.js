@@ -1,0 +1,1 @@
+export { StyledStickyFooter } from './StyledStickyFooter'

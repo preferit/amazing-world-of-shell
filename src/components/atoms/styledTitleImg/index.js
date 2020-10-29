@@ -1,0 +1,1 @@
+export { StyledTitleImg } from './StyledTitleImg'

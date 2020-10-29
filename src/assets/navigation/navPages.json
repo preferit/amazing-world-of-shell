@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/",
+    "title": "Home",
+    "icon": "home"
+  },
+  {
+    "path": "/vim",
+    "title": "Amazing world of vi",
+    "icon": "vim"
+  }
+]

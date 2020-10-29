@@ -1,0 +1,1 @@
+export { TitleImg } from './TitleImg'
