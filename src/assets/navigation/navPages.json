@@ -5,8 +5,13 @@
     "icon": "home"
   },
   {
+    "path": "/shell",
+    "title": "Shell",
+    "icon": "shell"
+  },
+  {
     "path": "/vim",
-    "title": "Amazing world of vi",
+    "title": "Amazing world of Vi/m",
     "icon": "vim"
   }
 ]

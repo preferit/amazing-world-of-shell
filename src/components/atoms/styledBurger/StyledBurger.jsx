@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledBurger = styled.button`
 
-    position: absolute;
+    position: fixed;
     top: 5%;
     left: 2rem;
     display: flex;
@@ -23,7 +23,9 @@ export const StyledBurger = styled.button`
     div {
         width: 2rem;
         height: 0.25rem;
-        background: ${({ theme, open }) => theme.primaryDark};
+        /*background: ${({ theme, open }) => theme.primaryDark};*/
+        background: rgb(255,152,20);
+        background: linear-gradient(90deg, rgba(255,152,20,1) 0%, rgba(255,252,182,1) 35%, rgba(105,218,255,1) 100%);
         border-radius: 10px;
         transition: all 0.3s linear;
         position: relative;

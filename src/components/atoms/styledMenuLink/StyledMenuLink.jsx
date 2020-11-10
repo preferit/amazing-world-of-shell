@@ -9,8 +9,8 @@ export const StyledMenuLink = styled(NavLink)`
   /*padding: 12px;*/
   letter-spacing: 0rem;
   &:hover {
-    color: ${({ theme }) => theme.primaryDark};
-    background: ${({ theme }) => theme.primaryDark};
+    color: ${({ theme }) => theme.primaryHover};
+    
   }
   &:focus {
     text-decoration: none;

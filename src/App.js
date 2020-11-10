@@ -11,8 +11,7 @@ import {
     Switch,
     Route,
 } from "react-router-dom"
-import { Home } from './components/organisms'
-import { AmazingWorldOfVi } from './components/organisms'
+import { Home, AmazingWorldOfVi, Shell  } from './components/organisms'
 
 function App() {
     const [open, setOpen] = useState(false);
@@ -34,6 +33,9 @@ function App() {
                 <Switch>
                     <Route exact path="/">
                         <Home />
+                    </Route>
+                    <Route exact path="/shell">
+                        <Shell/>
                     </Route>
                     <Route exact path="/vim">
                         <AmazingWorldOfVi />

@@ -1,8 +1,8 @@
 export const AppTheme = {
     primaryDark: 'black',
-    primaryLight: '#EFFFFA',
+    primaryLight: '#FFC0CB',
     greyTone: '#D3D3D3',
-    primaryHover: 'yellow',
+    primaryHover: 'pink',
     primaryBackground: 'yellow',
     sheetGrey:  '#f5f5f5',
     mobile: '576px',

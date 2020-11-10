@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.2399218b.chunk.js",
+    "main.js.map": "/static/js/main.2399218b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd9a58b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd9a58b3.js.map",
+    "static/js/2.e3610fdf.chunk.js": "/static/js/2.e3610fdf.chunk.js",
+    "static/js/2.e3610fdf.chunk.js.map": "/static/js/2.e3610fdf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a88e4052c94ab359f4afa818daf3bc97.js": "/precache-manifest.a88e4052c94ab359f4afa818daf3bc97.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e3610fdf.chunk.js.LICENSE.txt": "/static/js/2.e3610fdf.chunk.js.LICENSE.txt",
+    "static/media/amazingWorldOfVim.png": "/static/media/amazingWorldOfVim.a5811943.png",
+    "static/media/octopus.png": "/static/media/octopus.b0641729.png",
+    "static/media/rainbow.png": "/static/media/rainbow.6e5c76e8.png",
+    "static/media/shell.png": "/static/media/shell.735a42cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd9a58b3.js",
+    "static/js/2.e3610fdf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2399218b.chunk.js"
+  ]
+}
