@@ -7,6 +7,8 @@ export const StyledText = styled.span`
     background-clip: text;
     color: transparent;
     transition: 1s;
+    opacity: ${({opacity}) => opacity};
+    filter: saturate(${({saturation}) => saturation});
     &:hover {
         color: ${({ theme }) => theme.primaryHover};
         background-image: initial;
